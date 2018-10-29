@@ -1,0 +1,9 @@
+This repository contains 4 files
+1. data_analysis.r
+This file contains R code to extract, analyze and model logD data.
+2. Report.pdf/.docx
+This file describes all the steps taken and outcome of constructed models.
+3. descr_4187_chem_logd_set.csv
+This file contains 1D and 2D descriptors.
+4. logd_set_4187_endpoints.csv
+This file contains logD values
